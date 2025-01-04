@@ -17,11 +17,13 @@ SAEA21 est une application de gestion événementielle développée en C#. Elle 
 - Gestion des participants
 - Gestion des ressources
 - Interface utilisateur intuitive
+- Création de bilans au format PDF détaillés, indiquant "Qui doit combien à qui".
 
 ## Prérequis
 
 - Visual Studio 2019 ou supérieur
 - .NET Framework 4.7.2 ou supérieur
+- Le fichier "Events.sql" 
 
 ## Installation et utilisation
 
@@ -30,7 +32,8 @@ SAEA21 est une application de gestion événementielle développée en C#. Elle 
    git clone https://github.com/LeDesert/AppGestionEvenementielle.git
    ```
 2. Ouvrez le fichier `.sln` avec Visual Studio.
-3. Compilez et exécutez l'application depuis Visual Studio.
+3. ⚠️ Placez le fichier "Events.sql" dans `AppEvenement/bin/Debug` ⚠️ 
+4. Compilez et exécutez l'application depuis Visual Studio.
 
 ---
 
@@ -53,6 +56,7 @@ SAEA21 is an event management application developed in C#. It allows managing ev
 - Participant management
 - Resource management
 - Intuitive user interface
+- Creation of detailed PDF summaries showing "Who owes what to whom".
 
 ## Prerequisites
 
@@ -66,4 +70,5 @@ SAEA21 is an event management application developed in C#. It allows managing ev
    git clone https://github.com/LeDesert/AppGestionEvenementielle.git
    ```
 2. Open the `.sln` file with Visual Studio.
-3. Build and run the application from Visual Studio.
+3. ⚠️ Place the "Events.sql" file in `AppEvenement/bin/Debug` ⚠️
+4. Build and run the application from Visual Studio.
