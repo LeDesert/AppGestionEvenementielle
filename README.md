@@ -62,6 +62,7 @@ SAEA21 is an event management application developed in C#. It allows managing ev
 
 - Visual Studio 2019 or later
 - .NET Framework 4.7.2 or later
+- The file "Events.sql"
 
 ## Installation and Usage
 
