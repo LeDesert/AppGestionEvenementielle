@@ -11,6 +11,11 @@
 
 SAEA21 est une application de gestion événementielle développée en C#. Elle permet de gérer les événements, les participants et les ressources associées. Ce projet a été réalisé dans le cadre de notre cursus à l'IUT d'Illkirch.
 
+<div align="center">
+    <img src="./AppGestionScreenBase.png" alt="Accueil" width="100%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="./AppGestionDepenses.png" alt="Depenses" width="100%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
+
 ## Fonctionnalités
 
 - Gestion des événements
